@@ -3,9 +3,15 @@
 This repository serves as the hub for Docker related files to setup the backend for Species mapper.
 
 ## Prerequisites 
+* [Git CLI](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * [Docker](https://github.com/wsargent/docker-cheat-sheet/blob/master/README.md)
 
 ## Quick Start
+#### Cloning
+`cd /folder/of/your/choice`
+
+`git clone https://github.com/nationalparkservice/maxent-docker.git`
+
 #### Build
 `./npsdocker.sh build`
 
